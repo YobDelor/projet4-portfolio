@@ -4,15 +4,15 @@ Portfolio personnel d'un étudiant en Licence 2 Génie Logiciel à l'Institut Iv
 
 **Démo en ligne : <https://delor-dev.netlify.app>**
 
-**Vidéo de présentation : <https://youtu.be/2ZSVPQzD278>**
+**Vidéo de présentation : [▶ Regarder (≈ 6 min)](media/presentation.mp4)**
 
 Le design est inspiré de [Escape Velocity](https://html5up.net/escape-velocity) (HTML5 UP) : composition éditoriale, bandeaux corail, en-tête bleu nuit, sections claires.
 
 ## Vidéo de présentation
 
-[![Vidéo de présentation du portfolio — cliquer pour la lire sur YouTube](https://img.youtube.com/vi/2ZSVPQzD278/hqdefault.jpg)](https://youtu.be/2ZSVPQzD278)
+[▶ Regarder la vidéo de présentation](media/presentation.mp4)
 
-Présentation du parcours, du site et des projets. Un clic sur la vignette ouvre la vidéo sur YouTube.
+Visite commentée du parcours, du site et des projets. Le lien ouvre la page du fichier sur GitHub, où la vidéo se lit directement.
 
 ## Fonctionnalités
 
@@ -47,6 +47,8 @@ Présentation du parcours, du site et des projets. Un clic sur la vignette ouvre
 │   ├── js/main.js          # Rendu des cartes, filtres, recherche, thème
 │   ├── images/profile.jpg  # Portrait
 │   └── cv/CV_Yobouet_Delor_Kassie.pdf
+├── media/
+│   └── presentation.mp4    # Vidéo de présentation (≈ 6 min)
 └── README.md
 ```
 
